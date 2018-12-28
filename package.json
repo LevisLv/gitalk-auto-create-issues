@@ -1,10 +1,7 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "gitalk-auto-create-issues",
+  "version": "1.0.0",
   "private": true,
-  "hexo": {
-    "version": "3.7.1"
-  },
   "dependencies": {
     "fast-xml-parser": "^3.12.11",
     "request": "^2.88.0",
