@@ -20,4 +20,4 @@
 > node app
 
 ## 效果图
-![effect_picture](https://github.com/LevisLv/LevisLv.github.io/blob/master/2018/12/28/hexo%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8gitalk%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%88%9B%E5%BB%BAissues/effect_picture.png)
+![effect_picture](https://github.com/LevisLv/LevisLv.github.io/blob/master/2018/12/28/hexo%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8gitalk%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%88%9B%E5%BB%BAissues/effect_picture.png)
