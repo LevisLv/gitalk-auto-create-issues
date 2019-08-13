@@ -4,7 +4,7 @@
  * 博客 base url
  * @type {string}
  */
-const BLOG_BASE_URL = 'https://levislv.com';
+const BLOG_BASE_URL = 'https://blog.levislv.com';
 
 /**
  * Personal access tokens
