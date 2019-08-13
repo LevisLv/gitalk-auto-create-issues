@@ -25,4 +25,4 @@
 > node app
 
 ## 三、效果图
-![effect_picture](https://github.com/LevisLv/gitalk-auto-create-issues/blob/master/effect_picture/effect_picture.png)
+![effect_picture](https://github.com/LevisLv/gitalk-auto-create-issues/tree/master/effect-picture/effect_picture.png)
