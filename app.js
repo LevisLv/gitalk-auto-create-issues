@@ -117,7 +117,13 @@ async function getSitemap() {
                 let end = loc.lastIndexOf('/');
                 end = end > start ? end + 1 : loc.length;
                 const necessaryLabelName = loc.substring(start, end);
-                if (!Consts.LABEL_NAME_BLACK_LIST.includes(necessaryLabelName)) {
+                let include = false;
+                Consts.LABEL_NAME_BLACK_LIST.forEach(function (labelName) {
+                    if (necessaryLabelName.indexOf(labelName) === 0) {
+                        include = true;
+                    }
+                });
+                if (!include) {
                     necessaryLabelNameSet.add(necessaryLabelName);
                 }
             });

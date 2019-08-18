@@ -15,7 +15,7 @@ const GITHUB_ACCESS_TOKEN = process.env['GITHUB_ACCESS_TOKEN'];
 
 const GITHUB_API_BASE_URL = 'https://api.github.com';
 const GITHUB_OWNER = 'LevisLv';
-const GITHUB_REPO = 'gitalk-auto-create-issues';
+const GITHUB_REPO = 'blog';
 
 /**
  * label name 黑名单，不生成对应的 issue
@@ -23,9 +23,11 @@ const GITHUB_REPO = 'gitalk-auto-create-issues';
  * @type {string[]}
  */
 const LABEL_NAME_BLACK_LIST = [
+    '/archives/',
     '/tags/',
-    '/about/',
-    '/project/',
+    '/categories/',
+    '/music/',
+    '/video/',
     '/404.html'
 ];
 
